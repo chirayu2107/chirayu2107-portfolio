@@ -19,13 +19,13 @@ export const ProjectList = [
     demo_url: "https://github-profiles-search.vercel.app/",
   },
   {
-    img: "/.png",
+    img: "/portfolio.png",
     title: "My Portfolio",
     description:
       "Unveiling a visionary project that decribes me. ",
     tech_stack: ["HTML", "CSS", "ReactJS"],
-    github_url: "",
-    demo_url: "",
+    github_url: "https://github.com/chirayu2107/chirayu2107-portfolio",
+    demo_url: "https://chirayu2107-portfolio.vercel.app/",
   },
   /*
   {
