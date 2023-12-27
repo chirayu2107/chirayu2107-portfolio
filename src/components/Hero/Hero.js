@@ -63,7 +63,7 @@ function Hero() {
                     1000,
                     "Uhh...",
                     1000,
-                    "Uhh... you can scroll down to see my projects & certifications now...",
+                    "Uhh... you can scroll down to see my projects now...",
                     300,
                     () => setShowScrollDown(true),
                     1000,
