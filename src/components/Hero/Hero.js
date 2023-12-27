@@ -46,7 +46,7 @@ function Hero() {
                     500,
                     'Frontend Developer.',
                     1000,
-                    'Pursuing B.Tech',
+                    'Pursuing B.Tech.',
                     // 'I design and code beautifully simple things, and I love what I do.',
                     1000,
                     'A problem solver.',
